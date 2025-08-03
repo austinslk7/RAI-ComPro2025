@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main (){
     double balance, amount = 0;
+   
     int option;
 
     while (1){
